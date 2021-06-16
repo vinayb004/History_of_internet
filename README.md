@@ -15,6 +15,27 @@ Evolution of the Internet
 Homepage
 ### Hero Text
 “The past is the present and the future too.”
-### Website Main Menu
+## 3. Website Main Menu
 Home, web, web 2.0, About
+## 4. WEB(First page)
+### 1.Menu Link 
+browser wars, internet search, .com bubble
+### 2. Page Title
+web intro
+### 3.Description 
+“A web browser is an application program which allows you to view and interact with an information in the World Wide Web.”  
+### 4. Keywords
+web browser, www, Microsoft
+### 5.Page Layout
+F-layout
+### 6.Page Content
+Link to another markdown document with the page content
+### Sidebar Content i.e., secondary information may be about people, places, companies, or other events this will appear on the side.
+Sidebar Image
+Image Link
+Image Alt attribute
+Sidebar text
+Page Image
+Page Image Link
+Page Image Alt attribute
 
