@@ -14,9 +14,9 @@ Evolution of the Internet
 ### 4.	Page Title
 Homepage
 ### Hero Text
-“The past is the present and the future too.”
+'The past is the present and the future too.'
 ### Website Main Menu
-Home, web, web 2.0, About
+'Home'    'web'   'web 2.0'    'About'
 ## WEB
 	Menu Link (what people see on the website) – [browser wars, internet search, .com bubble]
 Page Title (What appears in the browser address bar) – web intro
