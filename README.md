@@ -1,3 +1,3 @@
 # Contents
 ## 1. General Info
-### ⋅⋅1. Raghunandan Vellur Prasanna and Vinay Basavaraja
+### Team members - Raghunandan Vellur Prasanna and Vinay Basavaraja
