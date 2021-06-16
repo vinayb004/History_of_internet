@@ -14,7 +14,7 @@ Evolution of the Internet
 ### 4.	Page Title
 Homepage
 ### Hero Text
-'''The past is the present and the future too.'''
+' The past is the present and the future too. '
 ### Website Main Menu
 'Home'    'web'   'web 2.0'    'About'
 ## WEB
