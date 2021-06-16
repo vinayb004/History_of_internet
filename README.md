@@ -43,5 +43,10 @@ web browser, www, Microsoft,web 2.0, Facebook, YouTube
 F-layout
 ### 6.Page Content
 Link to another markdown document with the page content
-### Sidebar Content i.e., secondary information may be about people, places, companies, or other events this will appear on the side.
+## 6. Sidebar Content
+
+## 7. Sidebar image
+### 1. Image Link
+### 2. Image alt attribute
+### 3. Sidebar text
 
