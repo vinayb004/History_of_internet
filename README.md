@@ -29,7 +29,7 @@ Internet, ARPA, Circuit switching, Hot potato routing, packet switching network,
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
-Link to another markdown document with the page content
+[a relative link]()
 ## 5. WEB(second page)
 ### 1.Menu Link 
 browser wars, internet search, .com bubble,people part, social networks, YouTube
