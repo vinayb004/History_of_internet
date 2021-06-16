@@ -19,7 +19,7 @@ Homepage
 Home, History, web, About
 ## 4. HISTORY (first page)
 ### 1.Menu Link 
-ARPA, Packet Switching network, IMP, WWW
+How it Started?[],ARPA[], Packet Switching network[], IMP[], WWW[]
 ### 2. Page Title
 History of internet
 ### 3.Description 
@@ -32,7 +32,7 @@ F-layout
 [Page content](https://github.com/vinayb004/website_outline/blob/page-one/page-one%20content.md)
 ## 5. WEB(second page)
 ### 1.Menu Link 
-browser wars, internet search, .com bubble,people part, social networks, YouTube
+browser wars[], internet search[], .com bubble[],people part[], social networks[], YouTube[]
 ### 2. Page Title
 web info
 ### 3.Description 
