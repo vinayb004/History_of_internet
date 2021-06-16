@@ -19,7 +19,7 @@ Homepage
 Home, History, web, About
 ## 4. HISTORY (first page)
 ### 1.Menu Link 
-ARPA, Packet Switching network, IMP, WWW
+[ARPA]() ,[Circuit Switiching Network]() ,[Packet Switching network](), [IMP](), [TCP/IP]() ,[WWW]()
 ### 2. Page Title
 History of internet
 ### 3.Description 
@@ -29,10 +29,10 @@ Internet, ARPA, Circuit switching, Hot potato routing, packet switching network,
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
-Link to another markdown document with the page content
+[Page content](https://github.com/vinayb004/website_outline/blob/page-one/page-one%20content.md)
 ## 5. WEB(second page)
 ### 1.Menu Link 
-browser wars, internet search, .com bubble,people part, social networks, YouTube
+browser wars[], internet search[], .com bubble[],people part[], social networks[], YouTube[]
 ### 2. Page Title
 web info
 ### 3.Description 
