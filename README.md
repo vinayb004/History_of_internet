@@ -17,4 +17,19 @@ Homepage
 “The past is the present and the future too.”
 ### Website Main Menu
 Home, web, web 2.0, About
+## WEB
+	Menu Link (what people see on the website) – [browser wars, internet search, .com bubble]
+Page Title (What appears in the browser address bar) – web intro
+Description – “A web browser is an application program which allows you to view and interact with an information in the World Wide Web.”  
+Keywords -web browser, www, Microsoft
+Page Layout: (What layout will you use) F-layout
+Page Content: Link to another markdown document with the page content
+Sidebar Content i.e., secondary information may be about people, places, companies, or other events this will appear on the side.
+Sidebar Image
+Image Link
+Image Alt attribute
+Sidebar text
+Page Image
+Page Image Link
+Page Image Alt attribute
 
