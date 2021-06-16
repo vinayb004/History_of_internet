@@ -32,13 +32,13 @@ F-layout
 Link to another markdown document with the page content
 ## 5. WEB(second page)
 ### 1.Menu Link 
-browser wars, internet search, .com bubble,
+browser wars, internet search, .com bubble,people part, social networks, YouTube
 ### 2. Page Title
-web intro
+web info
 ### 3.Description 
 “A web browser is an application program which allows you to view and interact with an information in the World Wide Web.”  
 ### 4. Keywords
-web browser, www, Microsoft
+web browser, www, Microsoft,web 2.0, Facebook, YouTube
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
