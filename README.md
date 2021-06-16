@@ -6,9 +6,9 @@ Raghunandan Vellur Prasanna and Vinay Basavaraja
 Our website is about the history of the internet that is invention of the internet, who invented the internet?  How it started evolving over the period of time? and the internet in the present day. 
 ## 2. Website general info
 ### 1.	Description
-
+Explore the history of the internet from ARPANET to the web 2.0.
 ### 2.  Keywords
-Internet, network 
+Internet, ARPANET, web 2.0 
 ### 3. Website Title
 Evolution of the Internet
 ### 4.	Page Title
