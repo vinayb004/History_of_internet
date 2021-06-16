@@ -13,8 +13,8 @@ Internet, ARPA, Circuit switching, Hot potato routing, packet switching network,
 Evolution of the Internet
 ### 4.	Page Title
 Homepage
-## Hero Text
+### Hero Text
 “The past is the present and the future too.”
-## Website Main Menu
+### Website Main Menu
 Home, web, web 2.0, About
 
