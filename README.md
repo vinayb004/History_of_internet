@@ -78,3 +78,8 @@ Photo of Leonard Klienrock
 [Robert Taylor](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Robert_Taylor)</br>
 [Paul Baran](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Paul_Baran)</br>
 [Leonard Kleinrock](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Leonard_Klienrock)
+## 8. Page Image
+### 1. Page Image Link
+[Page_Image Link](https://github.com/Raghuvp01/website_outline/tree/page-one/Images/Page%20images)
+### 2. Page Image alt attribute
+## 9. Footer Menu
