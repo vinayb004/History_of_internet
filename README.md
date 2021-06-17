@@ -42,6 +42,56 @@ web browser, www, Microsoft,web 2.0, Facebook, YouTube
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
+
+## 6. Sidebar Content
+[Sidebar content](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md)
+## 7. Sidebar image
+### 1. Image Link
+[ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/ARPANET.png "ARPANET Logo")  
+[Microsoft](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/microsoft.jpg "Microsoft logo")  
+[Netscape](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Netscape-Logo.png "Netscape logo")  
+[Google](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Google.png "Google logo")  
+[Amazon](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Amazon%20logo.png "Amazon logo")   
+[Facebook](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Facebook-logo.png "Facebook logo")  
+[YouTube](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/YouTube-Logo.png)   
+[Yahoo!](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Yahoo-Emblem.png "Yahoo! logo")  
+[Tim Berners-Lee](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/licensed-image.jpg "Photo of Tim Berners-Lee")  
+[Vinton Gray Cerf](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/V.-Cerf.jpg "Photo of Vinton Gray Cerf")  
+[Lawrence Roberts](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Larry_Roberts.jpg "Photo of Lawrence Roberts")  
+[Robert Taylor](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Bob_Taylor.jpg "Photo of Robert Taylor")  
+[Paul Baran](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Paul%20Baran_1.jpg "Photo of Paul Baran")  
+[Leonard Klienrock](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Kleinrock.jpg "Photo of Leonard Klienrock")  
+### 3. Sidebar text
+[ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#ARPANET)</br>
+[Tim Berners-Lee](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Tim_Berners-lee)</br>
+[Microsoft](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Microsoft)</br>
+[Netscape](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Netscape)</br>
+[Google](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Google)</br>
+[Amazon](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Amazon)</br>
+[Facebook](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Facebook)</br>
+[YouTube](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#YouTube)</br>
+[Yahoo!](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Yahoo!)</br>
+[Vinton Gray Cerf](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Vinton_Gray_Cerf)</br>
+[Lawrence Roberts](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Lawrence_Roberts)</br>
+[Robert Taylor](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Robert_Taylor)</br>
+[Paul Baran](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Paul_Baran)</br>
+[Leonard Kleinrock](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Leonard_Klienrock)
+## 8. Page Image
+### 1. Page Image Link
+[First ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/ARPANET.jpg "Image of first ARPANET")  
+[Background image](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/speed-internet-technology-background.jpg "Backgroung image for web page")  
+[IMP(Interface Message Processor)](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/IMP.jpeg "image of IMP")  
+[Microsoft Headquarters](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/Microsoft%20Headquaters.jpeg "Image of Microsoft headquarters")  
+[Packet Switching network](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/Packet-Switching.png "Image of Packet Switching network")  
+[Yahoo! headquarters](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/Yahoo!%20headquaters.jpeg "Image of Yahoo! headquarters")
+[YouTube headquarters](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/Youtube%20company.jpeg "Image of YouTube headquarters")  
+[Interconnected network](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/interconnected%20network.jpg "Image of internet")
+## 9. Footer Menu
+Home  
+History  
+Web  
+About  
+=======
 [Second Page content](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md)
 ## 10.About Page 
 ### 1.Menu Link 
