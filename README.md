@@ -65,16 +65,16 @@ Photo of Paul Baran
 Photo of Leonard Klienrock  
 ### 3. Sidebar text
 [ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#ARPANET)</br>
-[Tim Berners-Lee]()</br>
-[Microsoft]()</br>
-[Netscape]()</br>
-[Google]()</br>
-[Amazon]()</br>
-[Facebook]()</br>
-[YouTube]()</br>
-[Yahoo!]()</br>
-[Vinton Gray Cerf]()</br>
-[Lawrence Roberts]()</br>
-[Robert Taylor]()</br>
-[Paul Baran]()</br>
-[Leonard Kleinrock]()
+[Tim Berners-Lee](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Tim Berners-Lee)</br>
+[Microsoft](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Microsoft)</br>
+[Netscape](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Netscape)</br>
+[Google](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Google)</br>
+[Amazon](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Amazon)</br>
+[Facebook](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Facebook)</br>
+[YouTube](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#YouTube)</br>
+[Yahoo!](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Yahoo!)</br>
+[Vinton Gray Cerf](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Vinton Gray Cerf)</br>
+[Lawrence Roberts](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Lawrence Roberts)</br>
+[Robert Taylor](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Robert Taylor)</br>
+[Paul Baran](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Paul Baran)</br>
+[Leonard Kleinrock](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Leonard Klienrock)
