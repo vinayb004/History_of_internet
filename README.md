@@ -45,7 +45,7 @@ F-layout
 [Second Page content](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md)
 ## 10.About Page 
 ### 1.Menu Link 
-[Home Page](https://github.com/vinayb004/website_outline/blob/page-one/about.md#home-page),[About] (https://github.com/vinayb004/website_outline/blob/page-one/about.md#about)[Contact Us](https://github.com/vinayb004/website_outline/blob/page-one/about.md#contact-us)
+[Home Page](https://github.com/vinayb004/website_outline/blob/page-one/about.md#home-page),[About](https://github.com/vinayb004/website_outline/blob/page-one/about.md#about)[Contact Us](https://github.com/vinayb004/website_outline/blob/page-one/about.md#contact-us)
 ### 2. Page Title
 About Page
 ### 3.Description 
