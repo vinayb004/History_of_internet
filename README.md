@@ -29,7 +29,7 @@ Internet, ARPA, Circuit switching, Hot potato routing, packet switching network,
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
-[Page content](https://github.com/vinayb004/website_outline/blob/page-one/page-one%20content.md)
+[First Page content](https://github.com/vinayb004/website_outline/blob/page-one/page-one%20content.md)
 ## 5. WEB(second page)
 ### 1.Menu Link 
 browser wars[], internet search[], .com bubble[],people part[], social networks[], YouTube[]
