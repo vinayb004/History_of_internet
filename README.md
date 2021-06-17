@@ -65,7 +65,7 @@ Photo of Paul Baran
 Photo of Leonard Klienrock  
 ### 3. Sidebar text
 [ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#ARPANET)</br>
-[Tim Berners-Lee](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Tim Berners-Lee)</br>
+[Tim Berners-Lee](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Tim)</br>
 [Microsoft](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Microsoft)</br>
 [Netscape](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Netscape)</br>
 [Google](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Google)</br>
