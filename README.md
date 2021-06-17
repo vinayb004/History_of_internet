@@ -47,7 +47,9 @@ Link to another markdown document with the page content
 [Sidebar content](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md)
 ## 7. Sidebar image
 ### 1. Image Link
-[Images link](https://github.com/Raghuvp01/website_outline/tree/page-one/Images/Sidebar_Images)
+[ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/ARPANET.png "ARPANET Logo")  
+[Amazon](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Amazon%20logo.png "Amazon logo")  
+[Robert Taylor](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Sidebar_Images/Bob_Taylor.jpg "Photo of Robert Taylor ")
 ### 2. Image alt attribute
 ARPANET logo    
 Photo of Tim Berners-Lee  
