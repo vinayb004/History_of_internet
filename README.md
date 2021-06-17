@@ -1,7 +1,8 @@
 # Contents
 ## 1. General Info
 ### Team members - 
-Raghunandan Vellur Prasanna and Vinay Basavaraja
+* Raghunandan Vellur Prasanna  
+* Vinay Basavaraja
 ### The concept of the website
 Our website is about the history of the internet that is invention of the internet, who invented the internet?  How it started evolving over the period of time? and the internet in the present day. 
 ## 2. Website general info
@@ -16,10 +17,19 @@ Homepage
 ### Hero Text
 “The past is the present and the future too.”
 ## 3. Website Main Menu
-Home, History, web, About
+Home  
+History  
+web  
+About
 ## 4. HISTORY (first page)
 ### 1.Menu Link 
-[ARPA](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#arpa) ,[Circuit Switiching Network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#circuit-switch-network) ,[Packet Switching network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#packet-switching-network), [IMP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#imp-interface-message-processor), [E-mail](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#e-mail), [TCP/IP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-tcp-ip) ,[WWW](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-www-)
+[ARPA](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#arpa)  
+[Circuit Switiching Network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#circuit-switch-network)  
+[Packet Switching network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#packet-switching-network)  
+[IMP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#imp-interface-message-processor)  
+[E-mail](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#e-mail)  
+[TCP/IP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-tcp-ip)  
+[WWW](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-www-)
 ### 2. Page Title
 History of internet
 ### 3.Description 
@@ -32,7 +42,10 @@ F-layout
 [First Page content](https://github.com/vinayb004/website_outline/blob/page-one/page-one%20content.md)
 ## 5. WEB(second page)
 ### 1.Menu Link 
-[Browser wars](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#browser-wars), [Internet search](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#internet-search), [.com bubble](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#dot-com-bubble), [social networks](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#social-networks), [YouTube](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#youtube)
+[Browser wars](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#browser-wars)  
+[Internet search](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#internet-search)  
+[Dot com bubble](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#dot-com-bubble)  
+[People](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#People)    
 ### 2. Page Title
 web info
 ### 3.Description 
@@ -88,14 +101,16 @@ F-layout
 [Interconnected network](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/interconnected%20network.jpg "Image of internet")
 ## 9. Footer Menu
 Home  
-History  
-Web  
-About  
+History - [ARPA](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#arpa), [Circuit Switiching Network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#circuit-switch-network), [Packet Switching network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#packet-switching-network), [IMP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#imp-interface-message-processor), [E-mail](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#e-mail), [TCP/IP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-tcp-ip), [WWW](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-www-)  
+Web - [Browser wars](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#browser-wars), [Internet search](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#internet-search), [.com bubble](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#dot-com-bubble), [social networks](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#social-networks), [YouTube](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#youtube)  
+About - [Home Page](https://github.com/vinayb004/website_outline/blob/page-one/about.md#home-page), [About](https://github.com/vinayb004/website_outline/blob/page-one/about.md#about), [Contact Us](https://github.com/vinayb004/website_outline/blob/page-one/about.md#contact-us)  
 ## 10.About Page 
 ### 1.Menu Link 
-[Home Page](https://github.com/vinayb004/website_outline/blob/page-one/about.md#home-page),[About](https://github.com/vinayb004/website_outline/blob/page-one/about.md#about)[Contact Us](https://github.com/vinayb004/website_outline/blob/page-one/about.md#contact-us)
+[Home](https://github.com/vinayb004/website_outline/blob/page-one/about.md#home-page)  
+[About](https://github.com/vinayb004/website_outline/blob/page-one/about.md#about)  
+[Contact Us](https://github.com/vinayb004/website_outline/blob/page-one/about.md#contact-us)
 ### 2. Page Title
-About Page
+AboutPage
 ### 3.Description 
 This conatins the information overview of website and contact details 
 ### 4. Keywords
