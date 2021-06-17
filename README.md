@@ -49,17 +49,17 @@ Link to another markdown document with the page content
 ### 1. Image Link
 ### 2. Image alt attribute
 ### 3. Sidebar text
-[ARPANET]()
-[Tim Berners-Lee]()
-[Microsoft]() 
-[Netscape]()
-[Google]()
-[Amazon]()
-[Facebook]()
-[YouTube]()
-[Yahoo!]()
-[Vinton Gray Cerf]()
-[Lawrence Roberts]()
-[Robert Taylor]()
-[Paul Baran]()
+[ARPANET]()</br>
+[Tim Berners-Lee]()</br>
+[Microsoft]()</br>
+[Netscape]()</br>
+[Google]()</br>
+[Amazon]()</br>
+[Facebook]()</br>
+[YouTube]()</br>
+[Yahoo!]()</br>
+[Vinton Gray Cerf]()</br>
+[Lawrence Roberts]()</br>
+[Robert Taylor]()</br>
+[Paul Baran]()</br>
 [Leonard Kleinrock]()
