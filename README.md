@@ -49,15 +49,15 @@ Link to another markdown document with the page content
 ### 1. Image Link
 [Images link](https://github.com/Raghuvp01/website_outline/tree/page-one/Images/Sidebar_Images)
 ### 2. Image alt attribute
-Logo of ARPANET  
+ARPANET logo    
 Photo of Tim Berners-Lee  
-Logo of Microsoft  
-Logo of Netscape  
-Logo of Google  
-Logo of Amazon  
-Logo of Facebook  
-Logo of TouTube  
-Logo of Yahoo!  
+Microsoft logo    
+Netscape logo    
+Google logo    
+Amazon logo    
+Facebook logo    
+YouTube logo    
+Yahoo! logo    
 Photo of Vinton Gray Cerf  
 Photo of Lawrence Roberts  
 Photo of Robert Taylor  
