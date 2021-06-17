@@ -64,7 +64,7 @@ Photo of Robert Taylor
 Photo of Paul Baran  
 Photo of Leonard Klienrock  
 ### 3. Sidebar text
-[ARPANET](##ARPANET)</br>
+[ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md)(##ARPANET)</br>
 [Tim Berners-Lee]()</br>
 [Microsoft]()</br>
 [Netscape]()</br>
