@@ -44,7 +44,7 @@ F-layout
 ### 6.Page Content
 Link to another markdown document with the page content
 ## 6. Sidebar Content
-
+[Sidebar content](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md)
 ## 7. Sidebar image
 ### 1. Image Link
 ### 2. Image alt attribute
