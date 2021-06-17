@@ -19,7 +19,7 @@ Homepage
 Home, History, web, About
 ## 4. HISTORY (first page)
 ### 1.Menu Link 
-[ARPA]() ,[Circuit Switiching Network]() ,[Packet Switching network](), [IMP](), [TCP/IP]() ,[WWW]()
+[ARPA](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#arpa) ,[Circuit Switiching Network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#circuit-switch-network) ,[Packet Switching network](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#packet-switching-network), [IMP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#imp-interface-message-processor), [E-mail](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#e-mail), [TCP/IP](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-tcp-ip) ,[WWW](https://github.com/vinayb004/website_outline/blob/main/page-one%20content.md#-www-)
 ### 2. Page Title
 History of internet
 ### 3.Description 
@@ -29,10 +29,10 @@ Internet, ARPA, Circuit switching, Hot potato routing, packet switching network,
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
-[Page content](https://github.com/vinayb004/website_outline/blob/page-one/page-one%20content.md)
+[First Page content](https://github.com/vinayb004/website_outline/blob/page-one/page-one%20content.md)
 ## 5. WEB(second page)
 ### 1.Menu Link 
-browser wars[], internet search[], .com bubble[],people part[], social networks[], YouTube[]
+[Browser wars](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#browser-wars), [Internet search](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#internet-search), [.com bubble](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#dot-com-bubble), [social networks](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#social-networks), [YouTube](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md#youtube)
 ### 2. Page Title
 web info
 ### 3.Description 
@@ -42,7 +42,7 @@ web browser, www, Microsoft,web 2.0, Facebook, YouTube
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
-Link to another markdown document with the page content
+
 ## 6. Sidebar Content
 [Sidebar content](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md)
 ## 7. Sidebar image
@@ -91,3 +91,19 @@ Home
 History  
 Web  
 About  
+=======
+[Second Page content](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md)
+## 10.About Page 
+### 1.Menu Link 
+[Home Page](https://github.com/vinayb004/website_outline/blob/page-one/about.md#home-page),[About](https://github.com/vinayb004/website_outline/blob/page-one/about.md#about)[Contact Us](https://github.com/vinayb004/website_outline/blob/page-one/about.md#contact-us)
+### 2. Page Title
+About Page
+### 3.Description 
+This conatins the information overview of website and contact details 
+### 4. Keywords
+Internet
+### 5.Page Layout
+F-layout
+### 6.Page Content
+[About](https://github.com/vinayb004/website_outline/blob/page-one/about.md)
+
