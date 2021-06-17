@@ -42,7 +42,7 @@ web browser, www, Microsoft,web 2.0, Facebook, YouTube
 ### 5.Page Layout
 F-layout
 ### 6.Page Content
-
+[Second Page content](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md)
 ## 6. Sidebar Content
 [Sidebar content](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md)
 ## 7. Sidebar image
@@ -91,7 +91,6 @@ Home
 History  
 Web  
 About  
-[Second Page content](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md)
 ## 10.About Page 
 ### 1.Menu Link 
 [Home Page](https://github.com/vinayb004/website_outline/blob/page-one/about.md#home-page),[About](https://github.com/vinayb004/website_outline/blob/page-one/about.md#about)[Contact Us](https://github.com/vinayb004/website_outline/blob/page-one/about.md#contact-us)
