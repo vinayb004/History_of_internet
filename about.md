@@ -1,6 +1,6 @@
 ## Contact Us
- 123 ABC
- Warrens Street
- Newark,New Jersey
- 07101
+ 123 ABC<br>
+ Warrens Street<br>
+ Newark,New Jersey<br>
+ 07101<br>
  Phone No: 9807654321
