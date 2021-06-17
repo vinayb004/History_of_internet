@@ -43,5 +43,17 @@ web browser, www, Microsoft,web 2.0, Facebook, YouTube
 F-layout
 ### 6.Page Content
 [Second Page content](https://github.com/vinayb004/website_outline/blob/page-one/page_two_content.md)
-### Sidebar Content i.e., secondary information may be about people, places, companies, or other events this will appear on the side.
+## 10.About Page 
+### 1.Menu Link 
+[Home Page](),[Contact Us]()
+### 2. Page Title
+About 
+### 3.Description 
+
+### 4. Keywords
+
+### 5.Page Layout
+F-layout
+### 6.Page Content
+[About]()
 
