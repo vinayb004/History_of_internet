@@ -87,4 +87,7 @@ Link to another markdown document with the page content
 [YouTube headquarters](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/Youtube%20company.jpeg "Image of YouTube headquarters")  
 [Interconnected network](https://github.com/Raghuvp01/website_outline/blob/page-one/Images/Page%20images/interconnected%20network.jpg "Image of internet")
 ## 9. Footer Menu
-
+Home  
+History  
+Web  
+About  
