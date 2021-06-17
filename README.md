@@ -47,7 +47,22 @@ Link to another markdown document with the page content
 [Sidebar content](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md)
 ## 7. Sidebar image
 ### 1. Image Link
+[Images link](https://github.com/Raghuvp01/website_outline/tree/page-one/Images/Sidebar_Images)
 ### 2. Image alt attribute
+Logo of ARPANET  
+Photo of Tim Berners-Lee  
+Logo of Microsoft  
+Logo of Netscape  
+Logo of Google  
+Logo of Amazon  
+Logo of Facebook  
+Logo of TouTube  
+Logo of Yahoo!  
+Photo of Vinton Gray Cerf  
+Photo of Lawrence Roberts  
+Photo of Robert Taylor  
+Photo of Paul Baran  
+Photo of Leonard Klienrock  
 ### 3. Sidebar text
 [ARPANET]()</br>
 [Tim Berners-Lee]()</br>
