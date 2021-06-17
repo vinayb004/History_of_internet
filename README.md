@@ -65,7 +65,7 @@ Photo of Paul Baran
 Photo of Leonard Klienrock  
 ### 3. Sidebar text
 [ARPANET](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#ARPANET)</br>
-[Tim Berners-Lee](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Tim)</br>
+[Tim Berners-Lee](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Tim_Berners-lee)</br>
 [Microsoft](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Microsoft)</br>
 [Netscape](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Netscape)</br>
 [Google](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Google)</br>
@@ -73,8 +73,8 @@ Photo of Leonard Klienrock
 [Facebook](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Facebook)</br>
 [YouTube](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#YouTube)</br>
 [Yahoo!](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Yahoo!)</br>
-[Vinton Gray Cerf](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Vinton Gray Cerf)</br>
-[Lawrence Roberts](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Lawrence Roberts)</br>
-[Robert Taylor](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Robert Taylor)</br>
-[Paul Baran](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Paul Baran)</br>
-[Leonard Kleinrock](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Leonard Klienrock)
+[Vinton Gray Cerf](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Vinton_Gray_Cerf)</br>
+[Lawrence Roberts](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Lawrence_Roberts)</br>
+[Robert Taylor](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Robert_Taylor)</br>
+[Paul Baran](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Paul_Baran)</br>
+[Leonard Kleinrock](https://github.com/Raghuvp01/website_outline/blob/page-one/Sidebar%20content.md#Leonard_Klienrock)
